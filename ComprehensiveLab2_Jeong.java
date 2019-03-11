@@ -1,9 +1,4 @@
 /*********************************************************************
- * CHALLENGE LAB ON methods, repetition with loops and recursion,
- * arrays (1D and 2D)
- * 
- * Instructor:  Villanueva
- * Challenge Lab 1
  * Modified and submitted by: [Christina Jeong]
  *
  *********************************************************************/
